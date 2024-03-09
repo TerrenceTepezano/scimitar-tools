@@ -1,1 +1,8 @@
-# scimitar-tools
+Under construction
+
+
+### Installation
+```
+npm install
+
+```
